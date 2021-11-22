@@ -1,0 +1,7 @@
+- [x] Create TODO.md
+- [x] Be able to add todo's in a text box (aka: text editor)
+- [X] Display it in a nice looking list: [here it is](https://github.com/jimmywarting/todo-assigment/blob/main/TODO.md)
+- [x] Be able to mark what is completed...
+- [x] Be able to delete stuff
+- [x] upload the assignment to GitHub with a nice commit history
+- [ ] Hand in this "bug-free" todo app.
